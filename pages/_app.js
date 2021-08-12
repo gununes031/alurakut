@@ -22,6 +22,10 @@ const GlobalStyle = createGlobalStyle`
     height: auto;
     display: block;
   }
+  li {
+    list-style-type: none;
+    border: outset  ;
+  }
   ${AlurakutStyles}
 `
 
