@@ -151,7 +151,7 @@ export default function Home() {
                       <span>{itemAtual.nome}</span>
                       <p>{itemAtual.desc}</p>
                       <p>{itemAtual.endereco}</p>
-                      
+                      <p>{itemAtual.cidade}</p>
                     </div>
                   </li>
                 );
